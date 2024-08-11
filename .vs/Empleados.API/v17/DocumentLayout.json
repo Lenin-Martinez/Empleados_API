@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6970F96-6BA2-4928-974B-540CB8D929A2}|Empleados.API\\Empleados.API.csproj|e:\\universidad\\des_lab\\desafio1\\empleados_api\\empleados.api\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6970F96-6BA2-4928-974B-540CB8D929A2}|Empleados.API\\Empleados.API.csproj|solutionrelative:empleados.api\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AD8BCA-9848-44BE-99D6-B774EA09CF13}|Empleado.BL\\Empleado.BL.csproj|e:\\universidad\\des_lab\\desafio1\\empleados_api\\empleado.bl\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AD8BCA-9848-44BE-99D6-B774EA09CF13}|Empleado.BL\\Empleado.BL.csproj|solutionrelative:empleado.bl\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6970F96-6BA2-4928-974B-540CB8D929A2}|Empleados.API\\Empleados.API.csproj|e:\\universidad\\des_lab\\desafio1\\empleados_api\\empleados.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6970F96-6BA2-4928-974B-540CB8D929A2}|Empleados.API\\Empleados.API.csproj|solutionrelative:empleados.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Services\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Empleado.BL\\Services\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Services\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Empleado.BL\\Services\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T02:47:25.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Program.cs",
+              "RelativeDocumentMoniker": "Empleados.API\\Program.cs",
+              "ToolTip": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Program.cs",
+              "RelativeToolTip": "Empleados.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T01:54:48.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Empleados.API\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Empleados.API\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T01:53:47.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,13 @@
+using Empleado.BL.Interfaces;
+using Empleado.BL;
 using Empleado.Common;
+using Microsoft.Extensions.DependencyInjection;
+using Empleado.BL.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+
 
 // Add services to the container.
 
@@ -11,7 +18,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
 
-//builder.Services.AddServiceConnector();
+
+
+builder.Services.AddServiceConnector();
 
 
 var app = builder.Build();

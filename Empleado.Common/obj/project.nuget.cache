@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1eMlMJHv/R0uAm3wIHapOAkyFky0ThpI5mexrEILm0vN8/Hx/2EszqAJK1pDPKL3SGSWXGFiwpJBhGjqtcGZ/Q==",
+  "dgSpecHash": "TaCbmu2tzqZ+zrgj+G3uvs5o5wf0Fmo2DdOa9tlFqO2YeHTLzjxc5MsanMhfVE7AbYBGp4RN6IeV323PdWe7SA==",
   "success": true,
-  "projectFilePath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj",
+  "projectFilePath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

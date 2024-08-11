@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+rV1XY8G2sKAr6OFFygHGtF2PFBkMb//BCGQdgH4dbI3uAo3+ezM1we57haTPsiif/q41eVacoHWWJAY+GXspQ==",
+  "dgSpecHash": "D0ZMXTJ3xErMLoPZDDHR5VkoiSEu77VUmO2M9pV9Gvbhga1g1RR4hhLZGhRJLGKzInS/6oPU+xS3KJfJ7lJrPg==",
   "success": true,
-  "projectFilePath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\Empleado.BL.csproj",
+  "projectFilePath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Empleado.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LMartinez\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\LMartinez\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleados.API\\Empleados.API.csproj": {}
+    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Empleados.API.csproj": {}
   },
   "projects": {
-    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\Empleado.BL.csproj": {
+    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Empleado.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\Empleado.BL.csproj",
+        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Empleado.BL.csproj",
         "projectName": "Empleado.BL",
-        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\Empleado.BL.csproj",
+        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Empleado.BL.csproj",
         "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\obj\\",
+        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.DAL\\Empleado.DAL.csproj": {
-                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.DAL\\Empleado.DAL.csproj"
+              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.DAL\\Empleado.DAL.csproj": {
+                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.DAL\\Empleado.DAL.csproj"
               },
-              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj": {
-                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj"
+              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj": {
+                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj": {
+    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj",
+        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj",
         "projectName": "Empleado.Common",
-        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj",
+        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj",
         "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\obj\\",
+        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,14 +137,14 @@
         }
       }
     },
-    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.DAL\\Empleado.DAL.csproj": {
+    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.DAL\\Empleado.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.DAL\\Empleado.DAL.csproj",
+        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.DAL\\Empleado.DAL.csproj",
         "projectName": "Empleado.DAL",
-        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.DAL\\Empleado.DAL.csproj",
+        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.DAL\\Empleado.DAL.csproj",
         "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.DAL\\obj\\",
+        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,11 +161,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj": {
-                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj"
+              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj": {
+                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj"
               },
-              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj": {
-                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj"
+              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj": {
+                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj"
               }
             }
           }
@@ -218,14 +218,14 @@
         }
       }
     },
-    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj": {
+    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj",
+        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj",
         "projectName": "Empleado.Entities",
-        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj",
+        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj",
         "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\obj\\",
+        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -278,14 +278,14 @@
         }
       }
     },
-    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleados.API\\Empleados.API.csproj": {
+    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Empleados.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleados.API\\Empleados.API.csproj",
+        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Empleados.API.csproj",
         "projectName": "Empleados.API",
-        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleados.API\\Empleados.API.csproj",
+        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Empleados.API.csproj",
         "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleados.API\\obj\\",
+        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -302,11 +302,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\Empleado.BL.csproj": {
-                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\Empleado.BL.csproj"
+              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Empleado.BL.csproj": {
+                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Empleado.BL.csproj"
               },
-              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj": {
-                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj"
+              "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj": {
+                "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj"
               }
             }
           }
@@ -326,6 +326,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

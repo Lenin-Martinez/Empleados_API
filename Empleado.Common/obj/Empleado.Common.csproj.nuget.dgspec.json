@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj": {}
+    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj": {}
   },
   "projects": {
-    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj": {
+    "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj",
+        "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj",
         "projectName": "Empleado.Common",
-        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\Empleado.Common.csproj",
+        "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\Empleado.Common.csproj",
         "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Common\\obj\\",
+        "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",

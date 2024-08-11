@@ -9,3 +9,15 @@ E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Entities\obj\Debug\net8.0
 E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Entities\obj\Debug\net8.0\refint\Empleado.Entities.dll
 E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Entities\obj\Debug\net8.0\Empleado.Entities.pdb
 E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Entities\obj\Debug\net8.0\ref\Empleado.Entities.dll
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\bin\Debug\net8.0\Empleado.Entities.deps.json
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\bin\Debug\net8.0\Empleado.Entities.dll
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\bin\Debug\net8.0\Empleado.Entities.pdb
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\Empleado.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\Empleado.Entities.AssemblyInfoInputs.cache
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\Empleado.Entities.AssemblyInfo.cs
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\Empleado.Entities.csproj.CoreCompileInputs.cache
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\Empleado.Entities.sourcelink.json
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\Empleado.Entities.dll
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\refint\Empleado.Entities.dll
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\Empleado.Entities.pdb
+E:\Universidad\DES_Lab\Desafio1\Empleados_API\Empleado.Entities\obj\Debug\net8.0\ref\Empleado.Entities.dll

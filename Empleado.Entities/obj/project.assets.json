@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj",
+      "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj",
       "projectName": "Empleado.Entities",
-      "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj",
+      "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj",
       "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-      "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\obj\\",
+      "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",

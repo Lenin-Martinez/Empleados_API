@@ -1182,6 +1182,7 @@
     "net8.0": [
       "Empleado.BL >= 1.0.0",
       "Empleado.Entities >= 1.0.0",
+      "Microsoft.Extensions.Options >= 8.0.2",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -1191,11 +1192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleados.API\\Empleados.API.csproj",
+      "projectUniqueName": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Empleados.API.csproj",
       "projectName": "Empleados.API",
-      "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleados.API\\Empleados.API.csproj",
+      "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\Empleados.API.csproj",
       "packagesPath": "C:\\Users\\LMartinez\\.nuget\\packages\\",
-      "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleados.API\\obj\\",
+      "outputPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleados.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1212,11 +1213,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\Empleado.BL.csproj": {
-              "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.BL\\Empleado.BL.csproj"
+            "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Empleado.BL.csproj": {
+              "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.BL\\Empleado.BL.csproj"
             },
-            "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj": {
-              "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados.API\\Empleado.Entities\\Empleado.Entities.csproj"
+            "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj": {
+              "projectPath": "E:\\Universidad\\DES_Lab\\Desafio1\\Empleados_API\\Empleado.Entities\\Empleado.Entities.csproj"
             }
           }
         }
@@ -1236,6 +1237,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.Extensions.Options": {
+            "target": "Package",
+            "version": "[8.0.2, )"
+          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.4.0, )"

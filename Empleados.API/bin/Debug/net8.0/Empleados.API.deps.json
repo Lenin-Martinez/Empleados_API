@@ -10,6 +10,7 @@
         "dependencies": {
           "Empleado.BL": "1.0.0",
           "Empleado.Entities": "1.0.0",
+          "Microsoft.Extensions.Options": "8.0.2",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
