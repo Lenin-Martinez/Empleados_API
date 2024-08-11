@@ -1,0 +1,11 @@
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\bin\Debug\net8.0\Empleado.Common.deps.json
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\bin\Debug\net8.0\Empleado.Common.dll
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\bin\Debug\net8.0\Empleado.Common.pdb
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\obj\Debug\net8.0\Empleado.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\obj\Debug\net8.0\Empleado.Common.AssemblyInfoInputs.cache
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\obj\Debug\net8.0\Empleado.Common.AssemblyInfo.cs
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\obj\Debug\net8.0\Empleado.Common.csproj.CoreCompileInputs.cache
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\obj\Debug\net8.0\Empleado.Common.dll
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\obj\Debug\net8.0\refint\Empleado.Common.dll
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\obj\Debug\net8.0\Empleado.Common.pdb
+E:\Universidad\DES_Lab\Desafio1\Empleados.API\Empleado.Common\obj\Debug\net8.0\ref\Empleado.Common.dll
